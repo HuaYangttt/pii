@@ -5,6 +5,7 @@ __pycache__/
 *.env
 /pile/matched_files_api/
 /pile/matched_files_email/
+/pile/test_hc.py
 # C extensions
 *.so
 
