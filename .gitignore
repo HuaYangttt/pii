@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.env
+/pile/matched_files_api/
+/pile/matched_files_email/
 # C extensions
 *.so
 
